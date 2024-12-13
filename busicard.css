@@ -1,0 +1,9 @@
+.card{
+    border: solid black 2px;
+    padding: 20px;
+    display: flex;
+    margin: 1px 10px 5px  ;
+    text-align: center;
+    justify-content: space-around;
+    background-color: rgb(14, 147, 147);
+   }
